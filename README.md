@@ -1,4 +1,4 @@
 # unraid-templates
-Some Unraid templates for the Community App Store
+A place for Unraid templates for the Community App Store
 
-Now working on a template for the promising project Mail Archiver.
+Now containing a template for the promising project Mail Archiver.
