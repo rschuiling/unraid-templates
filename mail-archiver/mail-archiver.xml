@@ -13,7 +13,7 @@
   <Category>Other:</Category>
   <WebUI>http://[IP]:[PORT:5000]</WebUI>
   <TemplateURL/>
-  <Icon>https://i.postimg.cc/T14BNjZ0/envelope-check.png</Icon>
+  <Icon>https://raw.githubusercontent.com/rschuiling/unraid-templates/refs/heads/main/icons/envelope-check.png</Icon>
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
