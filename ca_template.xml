@@ -1,0 +1,10 @@
+<CommunityApplications>
+  <!-- Required profile -->
+  <Profile>
+    Some templates for the Unraid Community App store: MailArchiver and Traefik GeoIP filter.
+  </Profile>
+  <!-- Optional icon -->
+  <Icon>https://raw.githubusercontent.com/rschuiling/unraid-templates/refs/heads/main/icons/raketje.png</Icon>
+  <!-- Optional web page -->
+  <WebPage>https://github.com/rschuiling/unraid-templates</WebPage>
+</CommunityApplications>
