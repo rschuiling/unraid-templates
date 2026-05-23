@@ -22,9 +22,9 @@
   <DateInstalled>1779388075</DateInstalled>
   <DonateText/>
   <DonateLink/>
-  <Requires>- Traefik on the same Docker network&#13;
-- Middleware (forwardAuth) configuration in Traefik&#13;
-- Account on MaxMind.com (free)</Requires>
+  <Requires>Traefik on the same Docker network&#13;
+Middleware (forwardAuth) configuration in Traefik&#13;
+Account on MaxMind.com (free)</Requires>
   <Config Name="MaxMind account id" Target="MAXMIND_ID" Default="1234567" Mode="" Description="Your (numeric) MaxMind account id" Type="Variable" Display="always" Required="true" Mask="false"></Config>
   <Config Name="MaxMind license key" Target="MAXMIND_KEY" Default="long_string_of_gibberish" Mode="" Description="The MaxMind license key you generated" Type="Variable" Display="always" Required="true" Mask="true"></Config>
   <Config Name="Filter type" Target="FILTER_TYPE" Default="allow" Mode="" Description="Set the filter as an allow or blocklist (possible values: allow, blocklist)" Type="Variable" Display="always" Required="true" Mask="false">allow</Config>
