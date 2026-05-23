@@ -3,7 +3,7 @@
   <Name>traefik-geoip-filter</Name>
   <Repository>mpdcampbell/traefik-geoip-filter</Repository>
   <Registry>https://hub.docker.com/r/mpdcampbell/traefik-geoip-filter</Registry>
-  <Network>dodnet</Network>
+  <Network>bridge</Network>
   <MyIP/>
   <MyMAC/>
   <Shell>sh</Shell>
